@@ -2,7 +2,7 @@
 import About from './About';
 import './App.css';
 import Carousel from './Carousel';
-import Contact from './Contact';
+// import Contact from './Contact';
 import Footer from './Footer';
 import './my-sass.scss';
 import Navbar from './Navbar';
@@ -16,7 +16,7 @@ function App() {
       <Carousel />
       <About />
       <Gallery />
-      <Contact />
+      {/* <Contact /> */}
       <Footer />
     </div>
     
